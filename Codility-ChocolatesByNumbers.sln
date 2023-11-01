@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-ChocolatesByNumbers", "Codility-ChocolatesByNumbers\Codility-ChocolatesByNumbers.csproj", "{9E29E6AE-F483-4E7F-9FEF-6E4CD0C84B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-ChocolatesByNumbersTests", "Codility-ChocolatesByNumbersTests\Codility-ChocolatesByNumbersTests.csproj", "{4B7479BC-E54F-4B2C-B4C3-C0343FEF0CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E29E6AE-F483-4E7F-9FEF-6E4CD0C84B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E29E6AE-F483-4E7F-9FEF-6E4CD0C84B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E29E6AE-F483-4E7F-9FEF-6E4CD0C84B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E29E6AE-F483-4E7F-9FEF-6E4CD0C84B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7479BC-E54F-4B2C-B4C3-C0343FEF0CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7479BC-E54F-4B2C-B4C3-C0343FEF0CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7479BC-E54F-4B2C-B4C3-C0343FEF0CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7479BC-E54F-4B2C-B4C3-C0343FEF0CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C0E4BA-3E31-40D0-8B24-E375F885AC2E}
+	EndGlobalSection
+EndGlobal
